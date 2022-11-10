@@ -19,3 +19,4 @@ function foo() {
 foo();
 const arr2 = [1, 5, 6, 8];
 arr2.vanshu();
+
